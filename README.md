@@ -36,3 +36,7 @@ Related Posts:
 
 Integration (run back-end & front-end on same server/port)
 > [Integrate React with Node.js Restful Services](https://bezkoder.com/integrate-react-express-same-server-port/)
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
